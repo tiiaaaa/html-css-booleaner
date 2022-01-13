@@ -9,3 +9,19 @@ body{
     background-image: url("../img/pattern.png");
     background-size: contain;
 }
+/* Main */
+
+/* sezione 1 */
+.immagine-uno {
+    float: left;
+    width: 50%;
+}
+
+.tim-conference{
+    max-width: 100%;
+}
+
+.immagine-due{
+    width: 50%;
+    float: left;
+}
