@@ -1,0 +1,11 @@
+body{
+    width: 800px;
+    margin: auto;
+}
+/* impostazione header */
+.pattern{
+    width: 100%;
+    height: 100px;
+    background-image: url("../img/pattern.png");
+    background-size: contain;
+}
